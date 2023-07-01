@@ -1,4 +1,5 @@
 import './static/css/default.css';
+import './static/css/team.css'
 
 /* import containers */
 import Header from './Containers/Header';
@@ -10,6 +11,7 @@ import { Footer } from './Containers/Footer';
 import { Beneficios } from './Containers/beneficios';
 import Example from './Containers/screnshot';
 import { Cards } from './Containers/cards';
+import Team from './Containers/team';
 
 
 
@@ -20,11 +22,10 @@ function App() {
       <Navigation />
       <Header />
       <Features />
-      
-            <Example />
-            
+      <Example />
       <Beneficios />
       <Faq />
+      <Team/>
       <Conclutions />
       
       <Footer />
