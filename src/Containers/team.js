@@ -5,6 +5,9 @@ import joaco from "../static/img/Joaquin_Furtado.jpg"
 import mauri from "../static/img/Mauricio_De_Betolaza.jpg"
 import juan from "../static/img/Juan_Rey.jpg"
 
+import ln from "../static/icons/icon-linkedin.png"
+import gh from "../static/icons/icon-github.png"
+
 const Team = () => {
     return (
         <>
@@ -14,12 +17,12 @@ const Team = () => {
   <div class="container">
     <div class="row justify-content-center mb-4">
       <div class="col-md-7 text-center">
-        <h3 class="mb-3">Equipo</h3>
+        <h3 class="mb-3">Equipo de trabajo</h3>
         <h6 class="subtitle">  </h6>
       </div>
     </div>
     <div class="row">
-      <div class="col-lg-3 mb-4">
+      <div class="col-sm-3 mb-4">
         <div class="row">
           <div class="col-md-12">
             <img src={renzo} alt="wrapkit" class="img-fluid rounded-circle" />
@@ -30,17 +33,21 @@ const Team = () => {
               <h6 class="subtitle mb-3">IA developer</h6>
               <p>- Python</p>
               <p>- Tensorflow</p>
-                 <ul class="list-inline">
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-facebook"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-twitter"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-instagram"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-behance"></i></a></li>
+                <ul class="list-inline">
+
+                <li class="list-inline-item">
+                <a title="linkedin" href="http://www.linkedin.com" target="_blank" rel="noreferrer"><img src={ln} alt="Linkedin" style={{width: '30px'}} class="text-decoration-none d-block px-1" /></a>
+                </li>
+                <li class="list-inline-item">
+                <a title="github" href="http://www.github.com" target="_blank" rel="noreferrer"><img src={gh} alt="Github" style={{width: '30px'}} class="text-decoration-none d-block px-1" /></a>
+                </li>
+
               </ul>
             </div>
           </div>
         </div>
       </div>
-      <div class="col-lg-3 mb-4">
+      <div class="col-sm-3 mb-4">
         <div class="row">
           <div class="col-md-12">
             <img src={joaco} alt="wrapkit" class="img-fluid rounded-circle" />
@@ -52,16 +59,20 @@ const Team = () => {
               <p>- Pyton</p>
               <p>- Nodejs</p>
               <ul class="list-inline">
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-facebook"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-twitter"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-instagram"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-behance"></i></a></li>
+
+            <li class="list-inline-item">
+            <a title="linkedin" href="http://www.linkedin.com" target="_blank" rel="noreferrer"><img src={ln} alt="Linkedin" style={{width: '30px'}} class="text-decoration-none d-block px-1" /></a>
+            </li>
+            <li class="list-inline-item">
+            <a title="github" href="http://www.github.com" target="_blank" rel="noreferrer"><img src={gh} alt="Github" style={{width: '30px'}} class="text-decoration-none d-block px-1" /></a>
+            </li>
+
               </ul>
             </div>
           </div>
         </div>
       </div>
-      <div class="col-lg-3 mb-4">
+      <div class="col-sm-3 mb-4">
         <div class="row">
           <div class="col-md-12">
             <img src={mauri} alt="wrapkit" class="img-fluid rounded-circle" />
@@ -72,17 +83,22 @@ const Team = () => {
               <h6 class="subtitle mb-3">Frontend developer</h6>
               <p>Nodejs</p>
               <p>Electon</p>
+
               <ul class="list-inline">
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-facebook"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-twitter"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-instagram"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-behance"></i></a></li>
+
+                <li class="list-inline-item">
+                <a title="linkedin" href="http://www.linkedin.com" target="_blank" rel="noreferrer"><img src={ln} alt="Linkedin" style={{width: '30px'}} class="text-decoration-none d-block px-1" /></a>
+                </li>
+                <li class="list-inline-item">
+                <a title="github" href="http://www.github.com" target="_blank" rel="noreferrer"><img src={gh} alt="Github" style={{width: '30px'}} class="text-decoration-none d-block px-1" /></a>
+                </li>
+
               </ul>
             </div>
           </div>
         </div>
       </div>
-      <div class="col-lg-3 mb-4">
+      <div class="col-sm-3 mb-4">
         <div class="row">
           <div class="col-md-12">
             <img src={juan} alt="wrapkit" class="img-fluid rounded-circle" />
@@ -93,11 +109,16 @@ const Team = () => {
               <h6 class="subtitle mb-3">Frontend developer</h6>
               <p>React</p>
               <p>Electron</p>
+
               <ul class="list-inline">
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-facebook"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-twitter"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-instagram"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-behance"></i></a></li>
+
+                <li class="list-inline-item">
+                <a title="linkedin" href="http://www.linkedin.com" target="_blank" rel="noreferrer"><img src={ln} alt="Linkedin" style={{width: '30px'}} class="text-decoration-none d-block px-1" /></a>
+                </li>
+                <li class="list-inline-item">
+                <a title="github" href="http://www.github.com" target="_blank" rel="noreferrer"><img src={gh} alt="Github" style={{width: '30px'}} class="text-decoration-none d-block px-1" /></a>
+                </li>
+
               </ul>
             </div>
           </div>
