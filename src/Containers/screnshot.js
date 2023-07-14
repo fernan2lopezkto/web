@@ -9,30 +9,38 @@ import {
 import 'bootstrap';
 
 /* impot images */
-import ScrenEducation from '../static/img/Screenshot-educations.png'
-import ScrenInicio from '../static/img/Screenshot-inicio.png'
-import ScrenPractice from '../static/img/Screenshot-practice.png'
-import ScrenSetting from '../static/img/Screenshot-settings.png'
+import screnEducation from '../static/img/Screenshot-educations.png'
+import screnEducation2 from '../static/img/Screenshot-educations2.png'
+
+import screnInicio from '../static/img/Screenshot-inicio.png'
+import screnglosario from '../static/img/Screenshot-glosary.png'
+import screnglosario2 from '../static/img/Screenshot-glosary2.png'
+
 
 const items = [
   {
-    src: ScrenInicio,
+    src: screnInicio,
     altText: 'screnshot of inicio windows',
     caption: ''
   },
   {
-    src: ScrenEducation,
+    src: screnEducation,
     altText: 'screnshot of Education windows',
     caption: ''
   },
   {
-    src: ScrenPractice,
-    altText: 'screnshot of practice windows',
+    src: screnEducation2,
+    altText: 'screnshot of Education windows',
     caption: ''
   },
   {
-    src: ScrenSetting,
-    altText: 'screnshot of setting windows',
+    src: screnglosario,
+    altText: 'screnshot of glosary windows',
+    caption: ''
+  },
+  {
+    src: screnglosario2,
+    altText: 'screnshot of glosary',
     caption: ''
   }
 ];
