@@ -1,25 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.238cfed8.css",
-    "main.js": "/static/js/main.c016f176.js",
-    "static/js/787.4c02c682.chunk.js": "/static/js/787.4c02c682.chunk.js",
-    "static/media/Renzo Yaques 4.jpg": "/static/media/Renzo Yaques 4.8397c95a424f87ebbdd5.jpg",
-    "static/media/Joaquin Furtado 3.jpg": "/static/media/Joaquin Furtado 3.b245227c6fd056981909.jpg",
-    "static/media/Mauricio_De_Betolaza_2.jpg": "/static/media/Mauricio_De_Betolaza_2.1a7c409b2948e961f850.jpg",
-    "static/media/Screenshot-educations2.png": "/static/media/Screenshot-educations2.67f3a9d090be89f9131f.png",
-    "static/media/Screenshot-glosary2.png": "/static/media/Screenshot-glosary2.a93f0dd3b7b7309499e0.png",
-    "static/media/juan_rey_3.jpg": "/static/media/juan_rey_3.264c180d827fab51fc68.jpg",
-    "static/media/Screenshot-glosary.png": "/static/media/Screenshot-glosary.0b02bf68321219ba8924.png",
-    "static/media/Screenshot-inicio.png": "/static/media/Screenshot-inicio.68e90926de40f1ef1dce.png",
-    "static/media/Screenshot-educations.png": "/static/media/Screenshot-educations.6130011d0306c7a1da48.png",
-    "index.html": "/index.html",
-    "static/media/example.rar": "/static/media/example.683dabeab8ac73c61ffd.rar",
-    "main.238cfed8.css.map": "/static/css/main.238cfed8.css.map",
-    "main.c016f176.js.map": "/static/js/main.c016f176.js.map",
-    "787.4c02c682.chunk.js.map": "/static/js/787.4c02c682.chunk.js.map"
+    "main.css": "/web/static/css/main.98511ffb.css",
+    "main.js": "/web/static/js/main.ca441cea.js",
+    "static/js/787.4c02c682.chunk.js": "/web/static/js/787.4c02c682.chunk.js",
+    "static/media/Renzo Yaques 4.jpg": "/web/static/media/Renzo Yaques 4.8397c95a424f87ebbdd5.jpg",
+    "static/media/Joaquin Furtado 3.jpg": "/web/static/media/Joaquin Furtado 3.b245227c6fd056981909.jpg",
+    "static/media/Mauricio_De_Betolaza_2.jpg": "/web/static/media/Mauricio_De_Betolaza_2.1a7c409b2948e961f850.jpg",
+    "static/media/juan_rey_3.jpg": "/web/static/media/juan_rey_3.264c180d827fab51fc68.jpg",
+    "index.html": "/web/index.html",
+    "main.98511ffb.css.map": "/web/static/css/main.98511ffb.css.map",
+    "main.ca441cea.js.map": "/web/static/js/main.ca441cea.js.map",
+    "787.4c02c682.chunk.js.map": "/web/static/js/787.4c02c682.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.238cfed8.css",
-    "static/js/main.c016f176.js"
+    "static/css/main.98511ffb.css",
+    "static/js/main.ca441cea.js"
   ]
 }
