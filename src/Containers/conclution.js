@@ -2,7 +2,7 @@ import React from "react";
 
 export const Conclutions = () => {
     return (
-        <section class="py-7 bg-dark section-angle top-left bottom-left">
+        <section class="py-9 bg-dark section-angle top-left bottom-left">
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 mx-auto text-center">

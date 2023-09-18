@@ -13,7 +13,7 @@ const Team = () => {
         <>
             <section class="container col-md-8">
 
-<div class="py-5 team4">
+<div class="py-2 team4">
   <div class="container">
     <div class="row justify-content-center mb-4">
       <div class="col-md-7 text-center">

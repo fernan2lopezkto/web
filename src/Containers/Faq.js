@@ -2,7 +2,7 @@ import React from "react";
 
 export const Faq = () => {
     return (
-        <section class="py-7" id="PF">
+        <section class="py-6" id="PF">
     <div class="container">
         <div class="row">
             <div class="col-md-6 mx-auto text-center">

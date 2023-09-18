@@ -8,7 +8,7 @@ import video from "../static/icons/icon-video-w.png";
 export const Features = () => {
     return (
         <>
-            <section class="pt-6 pb-7" id="introduccion">
+            <section class="py-2" id="introduccion">
     <div class="container">
         <div class="row">
             <div class="col-md-6 mx-auto text-center">

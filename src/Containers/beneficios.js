@@ -4,8 +4,8 @@ export const Beneficios = () => {
 
     return (
         <>
-        <div class="container">
-            <div class="py-7 py-md-0 bg-hero sm-8">
+        <div class="container pt-6">
+            <div class="py-md-0 sm-8">
             <div class="container" style={{textAlign: "center"}}>
                 <h2>Beneficios de HandSpeak</h2>
                 <p class="mb-5 text-muted">

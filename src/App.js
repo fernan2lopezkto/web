@@ -7,28 +7,23 @@ import Navigation from './Containers/Navigation';
 import { Features } from './Containers/Features';
 import { Faq } from './Containers/Faq';
 import { Conclutions } from './Containers/conclution';
-import { Footer } from './Containers/Footer';
 import { Beneficios } from './Containers/beneficios';
-import Examples from './Containers/screnshot';
 import Team from './Containers/team';
+import VideoPlayer  from './Containers/videoPresentation';
 
 
 
 function App() {
   return (
     <>
-    
       <Navigation />
       <Header />
       <Features />
-      <Examples />
+      <VideoPlayer />
       <Beneficios />
       <Faq />
       <Team/>
       <Conclutions />
-      
-      <Footer />
-
     </>
   );
 }

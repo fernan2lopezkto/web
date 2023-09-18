@@ -2,7 +2,7 @@ import React from 'react';
 import { Card, Button, CardImg, CardTitle, CardText, CardGroup,
  CardSubtitle, CardBody } from 'reactstrap';
 
-export const Cards = (props) => {
+export const Cards = () => {
   return (
     <CardGroup>
       <Card>
