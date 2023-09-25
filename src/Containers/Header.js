@@ -2,7 +2,7 @@ import React from "react";
 
 const Header = () => {
     return (
-    <section class="py-2 py-md-0" id="home">
+    <section  id="home">
         <div class="container">
             <div class="row vh-md-100">
                 <div class="col-md-8 col-sm-10 col-12 mx-auto my-auto text-center">
