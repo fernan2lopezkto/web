@@ -6,7 +6,7 @@ export const Conclutions = () => {
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 mx-auto text-center">
-                        <h2 class="heading-black">Conclusión</h2>
+                        <h2 class="heading-black text-primary">Conclusión</h2>
                         <div class="card">
                             <div class="card-body">
                                 <p class="card-text">

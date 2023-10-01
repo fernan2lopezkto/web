@@ -1,4 +1,5 @@
 import React from "react";
+import Bubbles from "./Bubble";
 
 import hand from "../static/icons/icon-hand-w.png";
 import data from "../static/icons/icon-data-w.png";
@@ -8,11 +9,12 @@ import video from "../static/icons/icon-video-w.png";
 export const Features = () => {
     return (
         <>
+        <Bubbles />
             <section class="py-2" id="introduccion">
     <div class="container">
         <div class="row">
             <div class="col-md-6 mx-auto text-center">
-                <h2 class="heading-black">Introducción</h2>
+                <h2 class="heading-black text-primary">Introducción</h2>
                 <p class="text-muted lead">
                     HandSpeak es una herramienta que permite interpretar la lengua de señas en tiempo real
                     utilizando inteligencia artificial.

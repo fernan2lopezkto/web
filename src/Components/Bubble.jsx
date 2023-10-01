@@ -1,7 +1,7 @@
 
 export default function Bubbles() {
     return (
-            <div className="bubbles flex">
+            <div className="bubbles d-flex">
                 <span className="relative rounded-full shadow-2xl animate-bubble" style={{ '--i': 11 }}></span>
                 <span className="relative rounded-full shadow-2xl animate-bubble" style={{ '--i': 13 }}></span>
                 <span className="otherBubbles relative rounded-full shadow-2xl animate-bubble" style={{ '--i': 17 }}></span>

@@ -1,12 +1,14 @@
 import React from "react";
+import Bubbles from "./Bubble";
 
 export const Faq = () => {
     return (
         <section class="py-6" id="PF">
+        <Bubbles />
     <div class="container">
         <div class="row">
             <div class="col-md-6 mx-auto text-center">
-                <h2>Preguntas frecuentes</h2>
+                <h2 className="text-primary">Preguntas frecuentes</h2>
             </div>
         </div>
         <div class="row mt-5">

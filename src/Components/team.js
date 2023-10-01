@@ -1,9 +1,10 @@
 import React from "react";
+import Bubbles from "./Bubble";
 
-import renzo from "../static/img/Renzo Yaques 4.jpg"
-import joaco from "../static/img/Joaquin Furtado 3.jpg"
-import mauri from "../static/img/Mauricio_De_Betolaza_2.jpg"
-import juan from "../static/img/juan_rey_3.jpg"
+import renzo from "../static/img/renzo-yaques-4s.jpg"
+import joaco from "../static/img/Joaquin Furtado 3s.jpg"
+import mauri from "../static/img/Mauricio_De_Betolaza_2s.jpg"
+import juan from "../static/img/juan_rey_3s.jpg"
 
 import ln from "../static/icons/icon-linkedin.png"
 import gh from "../static/icons/icon-github.png"
@@ -11,13 +12,14 @@ import gh from "../static/icons/icon-github.png"
 const Team = () => {
     return (
         <>
+        <Bubbles />
             <section class="container col-md-8">
 
 <div class="py-2 team4">
   <div class="container">
     <div class="row justify-content-center mb-4">
       <div class="col-md-7 text-center">
-        <h3 class="mb-3">Equipo de trabajo</h3>
+        <h3 class="mb-3 text-primary">Equipo de trabajo</h3>
         <h6 class="subtitle">  </h6>
       </div>
     </div>
@@ -31,8 +33,7 @@ const Team = () => {
             <div class="pt-2">
               <h5 class="mt-4 font-weight-medium mb-0">Renzo Yaques</h5>
               <h6 class="subtitle mb-3">IA developer</h6>
-              <p>- Python</p>
-              <p>- Tensorflow</p>
+              
                 <ul class="list-inline">
 
                 <li class="list-inline-item">
@@ -56,8 +57,7 @@ const Team = () => {
             <div class="pt-2">
               <h5 class="mt-4 font-weight-medium mb-0">Joaquin Furtado</h5>
               <h6 class="subtitle mb-3">Backend developer</h6>
-              <p>- Pyton</p>
-              <p>- Nodejs</p>
+
               <ul class="list-inline">
 
             <li class="list-inline-item">
@@ -81,8 +81,7 @@ const Team = () => {
             <div class="pt-2">
               <h5 class="mt-4 font-weight-medium mb-0">Mauricio De Betolaza</h5>
               <h6 class="subtitle mb-3">Frontend developer</h6>
-              <p>Nodejs</p>
-              <p>Electon</p>
+
 
               <ul class="list-inline">
 
@@ -107,8 +106,7 @@ const Team = () => {
             <div class="pt-2">
               <h5 class="mt-4 font-weight-medium mb-0">Juan Rey</h5>
               <h6 class="subtitle mb-3">Frontend developer</h6>
-              <p>React</p>
-              <p>Electron</p>
+
 
               <ul class="list-inline">
 

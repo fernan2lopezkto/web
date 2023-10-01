@@ -7,7 +7,7 @@ export const Beneficios = () => {
         <div class="container pt-6">
             <div class="py-md-0 sm-8">
             <div class="container" style={{textAlign: "center"}}>
-                <h2>Beneficios de HandSpeak</h2>
+                <h2 className="text-primary">Beneficios de HandSpeak</h2>
                 <p class="mb-5 text-muted">
                     La principal ventaja de HandSpeak es que permite una
                     comunicación fluida y efectiva entre personas sordas y
