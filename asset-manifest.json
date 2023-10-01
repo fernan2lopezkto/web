@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.98511ffb.css",
-    "main.js": "/static/js/main.0f1426be.js",
+    "main.css": "/static/css/main.8abfedfe.css",
+    "main.js": "/static/js/main.566a7654.js",
     "static/js/787.4c02c682.chunk.js": "/static/js/787.4c02c682.chunk.js",
-    "static/media/Renzo Yaques 4.jpg": "/static/media/Renzo Yaques 4.8397c95a424f87ebbdd5.jpg",
-    "static/media/Joaquin Furtado 3.jpg": "/static/media/Joaquin Furtado 3.b245227c6fd056981909.jpg",
-    "static/media/Mauricio_De_Betolaza_2.jpg": "/static/media/Mauricio_De_Betolaza_2.1a7c409b2948e961f850.jpg",
-    "static/media/juan_rey_3.jpg": "/static/media/juan_rey_3.264c180d827fab51fc68.jpg",
+    "static/media/Mauricio_De_Betolaza_2s.jpg": "/static/media/Mauricio_De_Betolaza_2s.fb5fc9facde030f0a920.jpg",
+    "static/media/juan_rey_3s.jpg": "/static/media/juan_rey_3s.26c9a759842b36755d25.jpg",
+    "static/media/Joaquin Furtado 3s.jpg": "/static/media/Joaquin Furtado 3s.a0a3bd9c34c5c9f78230.jpg",
+    "static/media/renzo-yaques-4s.jpg": "/static/media/renzo-yaques-4s.9361bd410d2df6626fa6.jpg",
     "index.html": "/index.html",
-    "main.98511ffb.css.map": "/static/css/main.98511ffb.css.map",
-    "main.0f1426be.js.map": "/static/js/main.0f1426be.js.map",
+    "main.8abfedfe.css.map": "/static/css/main.8abfedfe.css.map",
+    "main.566a7654.js.map": "/static/js/main.566a7654.js.map",
     "787.4c02c682.chunk.js.map": "/static/js/787.4c02c682.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.98511ffb.css",
-    "static/js/main.0f1426be.js"
+    "static/css/main.8abfedfe.css",
+    "static/js/main.566a7654.js"
   ]
 }
