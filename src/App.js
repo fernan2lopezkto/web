@@ -10,13 +10,14 @@ import { Conclutions } from './Components/conclution';
 import { Beneficios } from './Components/beneficios';
 import Team from './Components/team';
 import VideoPlayer  from './Components/videoPresentation';
+import Navigation from './Components/Navigation';
 
 
 
 function App() {
   return (
     <>
-
+      <Navigation />
       <Header />
       <Features />
       <VideoPlayer />
